@@ -1,0 +1,1 @@
+﻿![alt text](screenshots/ChessHit.png "Описание будет тут")
